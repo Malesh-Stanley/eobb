@@ -1,0 +1,55 @@
+
+
+.text {
+  color: white;
+  margin-bottom: 5px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 12px;
+}
+.email-s {
+  width: 400px;
+  height: 18px;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.third {
+  color: white;
+  margin-bottom: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+.contain {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.button {
+  background-color: blue;
+  border: none;
+  width: 200px;
+  height: 28px;
+  border-radius: 15px;
+  color: white;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.button:hover {
+  background-color: brown;
+}
+.nature {
+  color: white;
+}
+.new {
+  color: white;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+.nature-1 {
+  color: black;
+  font-weight: bold;
+}
