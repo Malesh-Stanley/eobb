@@ -1,7 +1,7 @@
 
 
 .text {
-  color: white;
+  color: grey;
   margin-bottom: 5px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 12px;
@@ -13,7 +13,7 @@
   border-radius: 10px;
 }
 .third {
-  color: white;
+  color: blue;
   margin-bottom: 5px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
@@ -37,10 +37,10 @@
   background-color: brown;
 }
 .nature {
-  color: white;
+  color: blue;
 }
 .new {
-  color: white;
+  color: blue;
   font-weight: bold;
   font-family: 'Times New Roman', Times, serif;
 }
